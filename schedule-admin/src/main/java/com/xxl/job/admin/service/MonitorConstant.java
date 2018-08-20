@@ -1,5 +1,5 @@
 /**
- * Copyright 2017-2025 Evergrande Group.
+ * Copyright 2017-2025 schedule Group.
  */
 package com.xxl.job.admin.service;
 
