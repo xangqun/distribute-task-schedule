@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.starnetwork.job.StarNetworkJobAutoConfiguration
+com.schedule.job.ScheduleJobAutoConfiguration
